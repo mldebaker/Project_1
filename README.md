@@ -1,8 +1,8 @@
 # Project_1
-Gun Violance January 2013 - March 2018
-Compare most violent states year to year 
-Compare gun violanace cases to the production of firearms
-Compare Trends 
+Summary
+Compare and analyze gun violence trends over the United States primarily focused on 2014-2017. Investigate into population density and firearms manufactured over the time period. Look for correlations between gun violence and firearms manufactured during the time period, as well as investigate into common correlations between gun violence and population density by state. 
+
+
 Data From kaggle pulled from gunviolencearchive.org.
 https://www.kaggle.com/jameslko/gun-violence-data
 
